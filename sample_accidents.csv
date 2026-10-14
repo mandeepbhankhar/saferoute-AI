@@ -1,0 +1,101 @@
+accident_id,date,location,severity,weather,road_condition,time_of_day,vehicles_involved,fatalities,injuries,source_type
+DEMO001,2026-01-13,Phase 7,Moderate,Rainy,Wet,Afternoon,1,0,5,SYNTHETIC_DEMO
+DEMO002,2026-02-14,Industrial Area,Moderate,Clear,Dry,Morning,2,0,1,SYNTHETIC_DEMO
+DEMO003,2026-01-14,Kharar Road,Moderate,Cloudy,Wet,Night,3,0,0,SYNTHETIC_DEMO
+DEMO004,2026-03-23,Industrial Area,Severe,Foggy,Poor,Afternoon,2,0,2,SYNTHETIC_DEMO
+DEMO005,2026-07-14,Airport Road,Minor,Foggy,Poor,Evening,1,0,5,SYNTHETIC_DEMO
+DEMO006,2026-03-05,Industrial Area,Moderate,Clear,Poor,Evening,2,0,5,SYNTHETIC_DEMO
+DEMO007,2026-04-27,Phase 7,Minor,Clear,Wet,Morning,4,0,2,SYNTHETIC_DEMO
+DEMO008,2026-07-06,Zirakpur Highway,Moderate,Foggy,Poor,Afternoon,3,0,5,SYNTHETIC_DEMO
+DEMO009,2026-02-06,Zirakpur Highway,Severe,Rainy,Wet,Night,4,0,2,SYNTHETIC_DEMO
+DEMO010,2026-04-23,Landran Road,Fatal,Clear,Wet,Morning,3,1,0,SYNTHETIC_DEMO
+DEMO011,2026-06-11,Kharar Road,Minor,Cloudy,Under Repair,Night,2,0,2,SYNTHETIC_DEMO
+DEMO012,2026-05-15,Industrial Area,Minor,Cloudy,Poor,Afternoon,2,0,4,SYNTHETIC_DEMO
+DEMO013,2026-01-25,Airport Road,Moderate,Rainy,Wet,Night,1,0,3,SYNTHETIC_DEMO
+DEMO014,2026-08-28,Phase 7,Minor,Clear,Dry,Evening,3,0,0,SYNTHETIC_DEMO
+DEMO015,2026-03-22,Sector 22,Minor,Clear,Poor,Afternoon,1,0,5,SYNTHETIC_DEMO
+DEMO016,2026-09-17,Kharar Road,Minor,Rainy,Poor,Afternoon,1,0,4,SYNTHETIC_DEMO
+DEMO017,2026-01-10,Airport Road,Minor,Foggy,Poor,Afternoon,1,0,1,SYNTHETIC_DEMO
+DEMO018,2026-02-10,Airport Road,Severe,Cloudy,Dry,Afternoon,2,0,5,SYNTHETIC_DEMO
+DEMO019,2026-03-26,Phase 7,Moderate,Cloudy,Wet,Afternoon,3,0,3,SYNTHETIC_DEMO
+DEMO020,2026-07-11,Sector 22,Fatal,Cloudy,Dry,Afternoon,2,1,0,SYNTHETIC_DEMO
+DEMO021,2026-04-28,Kharar Road,Moderate,Clear,Dry,Morning,2,0,0,SYNTHETIC_DEMO
+DEMO022,2026-06-19,Airport Road,Severe,Rainy,Poor,Night,2,0,4,SYNTHETIC_DEMO
+DEMO023,2026-08-31,Kharar Road,Minor,Cloudy,Under Repair,Afternoon,1,0,0,SYNTHETIC_DEMO
+DEMO024,2026-07-01,Industrial Area,Moderate,Cloudy,Under Repair,Morning,1,0,0,SYNTHETIC_DEMO
+DEMO025,2026-06-23,Airport Road,Minor,Rainy,Wet,Afternoon,4,0,1,SYNTHETIC_DEMO
+DEMO026,2026-05-23,Sector 22,Minor,Rainy,Dry,Night,1,0,0,SYNTHETIC_DEMO
+DEMO027,2026-01-08,Airport Road,Moderate,Rainy,Wet,Night,4,0,3,SYNTHETIC_DEMO
+DEMO028,2026-07-25,Sector 17,Minor,Rainy,Under Repair,Morning,4,0,2,SYNTHETIC_DEMO
+DEMO029,2026-08-21,Phase 7,Severe,Cloudy,Under Repair,Afternoon,2,0,2,SYNTHETIC_DEMO
+DEMO030,2026-01-30,Sector 17,Minor,Foggy,Dry,Morning,4,0,4,SYNTHETIC_DEMO
+DEMO031,2026-03-22,Sector 17,Severe,Clear,Wet,Morning,1,0,5,SYNTHETIC_DEMO
+DEMO032,2026-07-26,Airport Road,Severe,Rainy,Dry,Morning,4,0,5,SYNTHETIC_DEMO
+DEMO033,2026-09-25,Landran Road,Moderate,Foggy,Wet,Evening,2,0,2,SYNTHETIC_DEMO
+DEMO034,2026-06-03,Sector 22,Minor,Foggy,Dry,Morning,4,0,4,SYNTHETIC_DEMO
+DEMO035,2026-02-21,Airport Road,Fatal,Rainy,Poor,Afternoon,3,0,1,SYNTHETIC_DEMO
+DEMO036,2026-03-22,Sector 22,Minor,Foggy,Dry,Evening,1,0,1,SYNTHETIC_DEMO
+DEMO037,2026-02-24,Zirakpur Highway,Minor,Foggy,Poor,Afternoon,3,0,1,SYNTHETIC_DEMO
+DEMO038,2026-05-16,Sector 22,Moderate,Foggy,Dry,Morning,4,0,2,SYNTHETIC_DEMO
+DEMO039,2026-06-20,Zirakpur Highway,Minor,Foggy,Wet,Night,4,0,4,SYNTHETIC_DEMO
+DEMO040,2026-02-08,Zirakpur Highway,Minor,Clear,Poor,Afternoon,4,0,1,SYNTHETIC_DEMO
+DEMO041,2026-07-06,Sector 17,Minor,Foggy,Wet,Afternoon,1,0,2,SYNTHETIC_DEMO
+DEMO042,2026-07-28,Zirakpur Highway,Severe,Rainy,Wet,Afternoon,4,0,0,SYNTHETIC_DEMO
+DEMO043,2026-06-20,Industrial Area,Minor,Rainy,Poor,Afternoon,1,0,3,SYNTHETIC_DEMO
+DEMO044,2026-08-29,Kharar Road,Severe,Rainy,Under Repair,Evening,3,0,1,SYNTHETIC_DEMO
+DEMO045,2026-04-09,Industrial Area,Minor,Foggy,Poor,Morning,3,0,2,SYNTHETIC_DEMO
+DEMO046,2026-07-24,Landran Road,Moderate,Clear,Dry,Evening,2,0,4,SYNTHETIC_DEMO
+DEMO047,2026-05-16,Sector 17,Fatal,Clear,Under Repair,Evening,3,1,4,SYNTHETIC_DEMO
+DEMO048,2026-04-08,Phase 7,Minor,Clear,Under Repair,Morning,2,0,2,SYNTHETIC_DEMO
+DEMO049,2026-06-19,Landran Road,Minor,Clear,Poor,Evening,4,0,2,SYNTHETIC_DEMO
+DEMO050,2026-06-01,Zirakpur Highway,Minor,Rainy,Under Repair,Night,2,0,4,SYNTHETIC_DEMO
+DEMO051,2026-07-27,Sector 17,Moderate,Foggy,Poor,Afternoon,4,0,4,SYNTHETIC_DEMO
+DEMO052,2026-06-14,Sector 22,Moderate,Cloudy,Under Repair,Afternoon,4,0,5,SYNTHETIC_DEMO
+DEMO053,2026-02-13,Phase 7,Minor,Foggy,Dry,Afternoon,3,0,1,SYNTHETIC_DEMO
+DEMO054,2026-03-17,Sector 17,Severe,Clear,Wet,Night,1,0,3,SYNTHETIC_DEMO
+DEMO055,2026-04-10,Industrial Area,Minor,Cloudy,Under Repair,Afternoon,2,0,5,SYNTHETIC_DEMO
+DEMO056,2026-02-24,Industrial Area,Moderate,Rainy,Wet,Night,1,0,4,SYNTHETIC_DEMO
+DEMO057,2026-03-04,Sector 22,Minor,Rainy,Under Repair,Evening,4,0,4,SYNTHETIC_DEMO
+DEMO058,2026-09-16,Industrial Area,Severe,Cloudy,Wet,Night,4,0,2,SYNTHETIC_DEMO
+DEMO059,2026-05-22,Sector 22,Severe,Rainy,Poor,Night,1,0,5,SYNTHETIC_DEMO
+DEMO060,2026-05-20,Landran Road,Minor,Foggy,Dry,Afternoon,2,0,1,SYNTHETIC_DEMO
+DEMO061,2026-03-20,Kharar Road,Minor,Clear,Under Repair,Night,3,0,4,SYNTHETIC_DEMO
+DEMO062,2026-02-01,Kharar Road,Moderate,Cloudy,Under Repair,Morning,4,0,3,SYNTHETIC_DEMO
+DEMO063,2026-06-30,Phase 7,Minor,Cloudy,Under Repair,Afternoon,4,0,1,SYNTHETIC_DEMO
+DEMO064,2026-09-06,Sector 17,Minor,Cloudy,Poor,Night,2,0,3,SYNTHETIC_DEMO
+DEMO065,2026-01-14,Industrial Area,Severe,Clear,Dry,Night,2,0,3,SYNTHETIC_DEMO
+DEMO066,2026-05-14,Industrial Area,Minor,Foggy,Wet,Night,3,0,2,SYNTHETIC_DEMO
+DEMO067,2026-07-14,Phase 7,Severe,Cloudy,Poor,Morning,4,0,0,SYNTHETIC_DEMO
+DEMO068,2026-01-27,Landran Road,Moderate,Rainy,Dry,Morning,1,0,1,SYNTHETIC_DEMO
+DEMO069,2026-01-11,Zirakpur Highway,Minor,Rainy,Wet,Night,1,0,4,SYNTHETIC_DEMO
+DEMO070,2026-08-27,Phase 7,Severe,Foggy,Wet,Morning,2,0,2,SYNTHETIC_DEMO
+DEMO071,2026-01-14,Phase 7,Minor,Cloudy,Under Repair,Afternoon,1,0,4,SYNTHETIC_DEMO
+DEMO072,2026-05-05,Airport Road,Moderate,Foggy,Dry,Morning,3,0,4,SYNTHETIC_DEMO
+DEMO073,2026-07-09,Airport Road,Minor,Foggy,Dry,Night,4,0,0,SYNTHETIC_DEMO
+DEMO074,2026-07-05,Sector 22,Minor,Rainy,Under Repair,Afternoon,3,0,4,SYNTHETIC_DEMO
+DEMO075,2026-09-05,Sector 22,Severe,Cloudy,Poor,Evening,2,0,0,SYNTHETIC_DEMO
+DEMO076,2026-08-19,Kharar Road,Minor,Cloudy,Under Repair,Evening,1,0,3,SYNTHETIC_DEMO
+DEMO077,2026-04-04,Sector 22,Severe,Rainy,Poor,Evening,3,0,2,SYNTHETIC_DEMO
+DEMO078,2026-05-22,Sector 17,Severe,Rainy,Dry,Afternoon,4,0,3,SYNTHETIC_DEMO
+DEMO079,2026-05-04,Sector 22,Moderate,Cloudy,Under Repair,Morning,1,0,2,SYNTHETIC_DEMO
+DEMO080,2026-05-05,Phase 7,Minor,Foggy,Under Repair,Evening,4,0,5,SYNTHETIC_DEMO
+DEMO081,2026-06-30,Sector 22,Moderate,Foggy,Poor,Evening,2,0,0,SYNTHETIC_DEMO
+DEMO082,2026-06-11,Airport Road,Moderate,Rainy,Wet,Afternoon,4,0,2,SYNTHETIC_DEMO
+DEMO083,2026-09-26,Phase 7,Moderate,Clear,Wet,Evening,2,0,2,SYNTHETIC_DEMO
+DEMO084,2026-01-08,Zirakpur Highway,Minor,Foggy,Dry,Morning,3,0,5,SYNTHETIC_DEMO
+DEMO085,2026-09-09,Airport Road,Severe,Clear,Poor,Night,4,0,3,SYNTHETIC_DEMO
+DEMO086,2026-01-27,Phase 7,Minor,Cloudy,Dry,Morning,4,0,3,SYNTHETIC_DEMO
+DEMO087,2026-01-28,Zirakpur Highway,Minor,Rainy,Poor,Morning,2,0,0,SYNTHETIC_DEMO
+DEMO088,2026-08-02,Kharar Road,Moderate,Cloudy,Under Repair,Night,3,0,4,SYNTHETIC_DEMO
+DEMO089,2026-06-06,Sector 17,Fatal,Clear,Wet,Afternoon,3,1,1,SYNTHETIC_DEMO
+DEMO090,2026-02-08,Zirakpur Highway,Minor,Clear,Under Repair,Night,4,0,2,SYNTHETIC_DEMO
+DEMO091,2026-05-28,Phase 7,Minor,Cloudy,Dry,Afternoon,3,0,5,SYNTHETIC_DEMO
+DEMO092,2026-04-12,Industrial Area,Moderate,Clear,Wet,Afternoon,3,0,1,SYNTHETIC_DEMO
+DEMO093,2026-03-26,Phase 7,Minor,Foggy,Under Repair,Morning,4,0,5,SYNTHETIC_DEMO
+DEMO094,2026-07-26,Phase 7,Minor,Cloudy,Under Repair,Morning,1,0,3,SYNTHETIC_DEMO
+DEMO095,2026-05-09,Sector 17,Moderate,Clear,Wet,Morning,3,0,4,SYNTHETIC_DEMO
+DEMO096,2026-03-31,Sector 22,Minor,Cloudy,Poor,Afternoon,4,0,5,SYNTHETIC_DEMO
+DEMO097,2026-02-16,Sector 22,Severe,Foggy,Under Repair,Evening,3,0,5,SYNTHETIC_DEMO
+DEMO098,2026-03-24,Landran Road,Minor,Cloudy,Under Repair,Evening,4,0,4,SYNTHETIC_DEMO
+DEMO099,2026-02-15,Landran Road,Minor,Foggy,Poor,Morning,4,0,4,SYNTHETIC_DEMO
+DEMO100,2026-01-01,Sector 22,Severe,Cloudy,Dry,Afternoon,3,0,4,SYNTHETIC_DEMO
